@@ -20,6 +20,11 @@ public class Ejemplo002 {
              }
          }
          System.out.printf("%d\n",suma);
-    
+         /*
+         bueno primero hicimos el arreglo 1 con los valores que ya teniamos de la tabla
+       creamos una variable de suma la inicialisamos en 0 de ahi creamos dos ciclos for
+       una para filas y otro para colummnas y de ahi sumamos los valores 
+       y al final presentamos el resultado de la suma 
+      */
      }
 }
